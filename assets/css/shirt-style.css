@@ -1,0 +1,32 @@
+
+
+.gr__number {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.num__act {
+    color: #f15d29;
+}
+
+.nb__num {
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.nb__num:hover {
+    color: #f15d29;
+    cursor: pointer;
+}
+
+.fa-angle-right {
+    cursor: pointer;
+}
+
+.jk__btn {
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-weight: 600;
+    width: 100%;
+}
